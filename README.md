@@ -107,8 +107,10 @@ interactive-music-streaming/
 ├── package.json
 ├── vite.config.js
 └── README.md
+```
 
-🚀 Getting Started
+## 🚀 Getting Started
+
 Installation
 
 Clone the repository and install the required dependencies:
@@ -121,7 +123,7 @@ npm run dev
 
 The application will be available at the local development server provided by Vite.
 
-🎧 Audio Player
+## 🎧 Audio Player
 
 The application includes a functional frontend audio player using HTML5 audio.
 
@@ -137,49 +139,44 @@ Automatic tracking of recently played songs
 
 The application uses locally stored MP3 files from the public/audio/ directory.
 
-❤️ Favorites
+## ❤️ Favorites
 
 Users can mark songs as favorites directly from the interface.
-
 Favorite selections are stored using browser localStorage, allowing the selected songs to remain available after refreshing the page.
 
-🎶 Playlists
+## 🎶 Playlists
 
 Users can create and manage playlists through the application.
-
 Playlist data is persisted using browser localStorage, allowing playlists and their songs to remain available across page refreshes.
 
-🕘 Recently Played
+## 🕘 Recently Played
 
 The application records songs played by the user and displays them in the recently played section.
-
 Recently played data is stored locally in the browser.
 
-🔍 Search and Filtering
+## 🔍 Search and Filtering
 
 Users can search through the music library and filter available songs using the search interface.
-
 Search functionality supports discovering songs within the application's music library without requiring an external backend service.
 
-📊 User Dashboard
+## 📊 User Dashboard
 
 The dashboard provides an overview of the user's music activity, including:
-
 Recently played songs
 Favorite songs
 Playlist information
 User music statistics
-📱 Responsive Design
+
+## 📱 Responsive Design
 
 The interface is designed to adapt across:
-
 Desktop screens
 Tablets
 Mobile devices
 
 The layout includes responsive navigation, library sections, and a responsive audio player for different screen sizes.
 
-🗺️ Application Pages
+## 🗺️ Application Pages
 
 | Page               | Description                       |
 | ------------------ | --------------------------------- |
@@ -191,27 +188,23 @@ The layout includes responsive navigation, library sections, and a responsive au
 | `/recently-played` | Recently played songs             |
 | `/dashboard`       | User dashboard and music activity |
 
-💾 Client-Side Features
-Audio Playback
+## 💾 Client-Side Features
 
+Audio Playback
 Music tracks are played directly in the browser using the HTML5 audio functionality and locally stored MP3 files.
 
 Favorites
-
 Favorite songs are stored using browser localStorage so that selections persist after refreshing the page.
 
 Playlists
-
 User-created playlists and their contents are persisted locally using localStorage.
 
 Recently Played
-
 Recently played tracks are recorded locally and displayed in the application's recently played sections.
 
 Search
-
 Music can be searched and filtered dynamically through the application's search interface.
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Aashika Kiran Nair

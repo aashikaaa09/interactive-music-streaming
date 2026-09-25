@@ -2,6 +2,9 @@
 
 A responsive music streaming frontend application developed using React.js and Tailwind CSS as part of a web development internship project. The application provides a modern music listening experience with song discovery, audio playback, search and filtering, favorites, playlists, recently played tracks, and a user dashboard.
 
+<img width="959" height="437" alt="image" src="https://github.com/user-attachments/assets/cfb43564-6b4b-4825-a655-d42931747a32" />
+
+
 ## ✨ Features
 
 - 🎵 Modern music streaming interface

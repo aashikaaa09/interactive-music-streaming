@@ -111,18 +111,21 @@ interactive-music-streaming/
 
 ## 🚀 Getting Started
 
-Installation
+### Installation
 
 Clone the repository and install the required dependencies:
+
+```bash
 git clone https://github.com/aashikaaa09/interactive-music-streaming.git
-
 cd interactive-music-streaming
-
 npm install
+```
 
-Run the Application
+### Run the Application
 
+```bash
 npm run dev
+```
 
 The application will be available at the local development server provided by Vite.
 
